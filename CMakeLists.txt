@@ -11,6 +11,7 @@ add_library(${PROJECT_NAME} SHARED
     src/GameFile.cpp
     src/gamemodehandler.cpp
     src/OverrideText.cpp
+    src/customObjects.cpp
     # Add any extra C++ source files here
 )
 
